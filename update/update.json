@@ -5,8 +5,8 @@
   "mandatory": false,
   "installer": {
     "fileName": "MediaFlow-1.2.0-Setup.exe",
-    "downloadUrl": "PUT_GOOGLE_DRIVE_LINK_HERE",
-    "sha256": "PUT_SHA256_HERE"
+    "downloadUrl": "https://example.com/test.exe",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
   },
   "releaseNotes": [
     "Initial update system"
