@@ -1,14 +1,9 @@
 {
-  "product": "MediaFlow",
-  "latestVersion": "1.2.0",
+  "version": "1.0.1",
+  "name": "MediaFlow 1.0.1",
   "releaseDate": "2026-09-07",
+  "downloadUrl": "https://example.com/test.exe",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
   "mandatory": false,
-  "installer": {
-    "fileName": "MediaFlow-1.2.0-Setup.exe",
-    "downloadUrl": "https://example.com/test.exe",
-    "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
-  },
-  "releaseNotes": [
-    "Initial update system"
-  ]
+  "releaseNotes": "Test release for the new MediaFlow update system."
 }
