@@ -2,8 +2,8 @@
   "version": "1.3.0",
   "name": "MediaFlow-1.3.0-Setup",
   "releaseDate": "2026-09-07",
-  "downloadUrl": "https://drive.google.com/file/d/1ufX5G7n5oIauL7Rkgjzup_qSunS5gSN6",
-  "sha256": "EBB241DCDFB4749D250086185D7F0E4CEA5A2286668BF9EA78A59AA38D1C2228",
+  "downloadUrl": "https://drive.google.com/file/d/1x-1WVGw40xyE-28WaMMzxA3BKOBbf52h",
+  "sha256": "DD51092BFE08AA61015FF63BE5E9AD568EEFC6775EF605FA54C41949477A7AF5",
   "mandatory": false,
   "releaseNotes": "Test release for the new MediaFlow update system."
 }
