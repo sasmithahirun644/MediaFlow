@@ -1,9 +1,9 @@
 {
-  "version": "2.5.1",
-  "name": "MediaFlow 2.5.1",
+  "version": "1.2.1",
+  "name": "MediaFlow-1.2.1-Setup",
   "releaseDate": "2026-09-07",
-  "downloadUrl": "https://example.com/test1.exe",
-  "sha256": "0000000000000000000000000000000060000000000000000000000000000000",
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1SJV_whln6z0OTDOVcoZYYMo_Z6uRaYr5",
+  "sha256": "38C6072C3EADCDC9B2228DF0563C8932F422A78D9B0C8512BEE5A8557C506F71",
   "mandatory": false,
   "releaseNotes": "Test release for the new MediaFlow update system."
 }
