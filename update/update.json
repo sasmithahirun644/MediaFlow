@@ -1,1 +1,14 @@
-
+{
+  "product": "MediaFlow",
+  "latestVersion": "1.2.0",
+  "releaseDate": "2026-09-07",
+  "mandatory": false,
+  "installer": {
+    "fileName": "MediaFlow-1.2.0-Setup.exe",
+    "downloadUrl": "PUT_GOOGLE_DRIVE_LINK_HERE",
+    "sha256": "PUT_SHA256_HERE"
+  },
+  "releaseNotes": [
+    "Initial update system"
+  ]
+}
